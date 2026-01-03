@@ -38,5 +38,5 @@ This is **not**:
 
 All rights reserved.
 
-See [LICENSE.md](LICENSE.md) and [NOTICE.md](NOTICE.md) for full legal terms.
+See [LICENSE](LICENSE.md) and [NOTICE](NOTICE.md) for full legal terms.
 
