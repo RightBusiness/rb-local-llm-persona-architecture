@@ -1,3 +1,5 @@
+# **Archived artefact — retained for historical reference only.**
+
 # Dr. Greyson Rouhe – Diagnostic Persona GPT
 
 [![License: All rights reserved – No reuse permitted](https://img.shields.io/badge/license-All%20rights%20reserved-red)](LICENSE.md)
