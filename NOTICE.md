@@ -15,7 +15,7 @@ All ownership rights have been fully and irrevocably assigned to:
 **Right Business Pte. Ltd.**  
 UEN: 202500026W
 
-Ownership was formally transferred under the COPYRIGHT_ASSIGNMENT.md dated 03 January 2026.
+Ownership was formally transferred under the [COPYRIGHT_ASSIGNMENT](COPYRIGHT_ASSIGNMENT.md) dated 03 January 2026.
 
 ---
 
