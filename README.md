@@ -1,10 +1,11 @@
 # rb-local-llm-persona-demo
 
-© 2025–2026 Right Business Pte. Ltd.  
+© 2025–2026 Right Business Pte. Ltd.
 All rights reserved.
 
 This repository is a reference implementation demonstrating
-persona enforcement for locally run large language models (LLMs).
+persona enforcement for locally run large language models (LLMs),
+using a fixed Modelfile as the execution surface.
 
 ## Scope
 
@@ -20,23 +21,43 @@ This is a code-level demonstration intended for technically competent users.
 
 You already know how to:
 - Run a local LLM (e.g. Ollama, llama.cpp, LM Studio)
-- Inspect and adapt code
-- Resolve model or runtime differences yourself
+- Inspect and adapt Modelfiles
+- Resolve model- or runtime-specific differences yourself
 
 ## Purpose
 
 The goal is to demonstrate how a fixed persona can be enforced
-at the prompt and system-instruction level.
+at the Modelfile and behavioral-architecture level
+across permissive local LLM runtimes.
 
-This is **not**:
+The canonical active Modelfile is:
+
+- `Modelfile-rouhe`
+
+All other Modelfiles in this repository are archived under
+`/archive/modelfiles` and are retained strictly for lineage
+and auditability. They are deprecated and must not be used
+for deployment.
+
+This repository is **not**:
 - A product
 - A framework
 - A supported chatbot
 - A turnkey solution
+
+## Architecture
+
+The authoritative behavioral specification for the persona
+implemented in this repository is defined in:
+
+- `docs/ROUHE_ARCHITECTURE.md`
+
+This document is platform-agnostic and supersedes earlier
+prompt-bound or GPT-specific persona artefacts, which are
+preserved under `/archive/gpt-era` for historical reference only.
 
 ## License
 
 All rights reserved.
 
 See [LICENSE](LICENSE.md) and [NOTICE](NOTICE.md) for full legal terms.
-

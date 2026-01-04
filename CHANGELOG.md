@@ -1,11 +1,18 @@
 # CHANGELOG v1.3.2
 
 [![License: All rights reserved – No reuse permitted](https://img.shields.io/badge/license-All%20rights%20reserved-red)](LICENSE.md)
-[![Version](https://img.shields.io/badge/version-v1.3.2-blue)](VERSION.md)
+[![Version](https://img.shields.io/badge/version-v1.3.3-blue)](VERSION.md)
+
+**v1.3.3 — 2026-01-04**
+- Updated root README to reflect Modelfile-based execution surface
+- Clarified `Modelfile-rouhe` as the sole active Modelfile
+- Locked archive structure and naming conventions
+- No behavioral or architectural changes
 
 **v1.3.2 — 2026-01-04**
-- Finalized and locked `Modelfile.rouhe-interpretive.v6` as the last prompt-only reference implementation
-- Cleaned and stabilized Modelfile documentation and Ollama usage
+- Finalized and archived `Modelfile.rouhe-interpretive.v6` as the last versioned lineage artefact
+- Promoted `Modelfile-rouhe` as the single canonical active Modelfile
+- Normalized Modelfile naming for Ollama list clarity
 - No behavioral or architectural changes
 - Serves as the pre-LoRA baseline checkpoint
 
