@@ -1,7 +1,13 @@
-# CHANGELOG v1.3.1
+# CHANGELOG v1.3.2
 
 [![License: All rights reserved – No reuse permitted](https://img.shields.io/badge/license-All%20rights%20reserved-red)](LICENSE.md)
-[![Version](https://img.shields.io/badge/version-v1.3.1-blue)](VERSION.md)
+[![Version](https://img.shields.io/badge/version-v1.3.2-blue)](VERSION.md)
+
+**v1.3.2 — 2026-01-04**
+- Finalized and locked `Modelfile.rouhe-interpretive.v6` as the last prompt-only reference implementation
+- Cleaned and stabilized Modelfile documentation and Ollama usage
+- No behavioral or architectural changes
+- Serves as the pre-LoRA baseline checkpoint
 
 **v1.3.1 — 2026-01-03**
 - Added and locked `ROUHE_ARCHITECTURE.md` as the authoritative, platform-agnostic behavioral specification
