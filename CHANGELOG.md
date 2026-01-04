@@ -1,7 +1,13 @@
-# CHANGELOG v1.3.0
+# CHANGELOG v1.3.1
 
 [![License: All rights reserved – No reuse permitted](https://img.shields.io/badge/license-All%20rights%20reserved-red)](LICENSE.md)
-[![Version](https://img.shields.io/badge/version-v1.3.0-blue)](VERSION.md)
+[![Version](https://img.shields.io/badge/version-v1.3.1-blue)](VERSION.md)
+
+**v1.3.1 — 2026-01-03**
+- Added and locked `ROUHE_ARCHITECTURE.md` as the authoritative, platform-agnostic behavioral specification
+- Formalized Rouhe-Core, Behavioral Layers, Guardrails, Failure Modes, and Non-Goals
+- Established explicit rejection of assistant-style and vending-machine interaction
+- No functional, scope, or runtime changes
 
 **v1.3.0 — 2026-01-03**
 - Repository re-scoped as a local-only reference demo
