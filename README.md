@@ -5,6 +5,8 @@ All rights reserved.
 
 Reference implementation demonstrating persona enforcement for locally run large language models using a fixed Modelfile execution surface.
 
+**Status:** Stable reference implementation. Not intended for production deployment.
+
 ## Scope
 
 - Local LLM only (bring your own runtime and model)
