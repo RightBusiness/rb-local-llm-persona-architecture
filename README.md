@@ -3,9 +3,7 @@
 © 2025–2026 Right Business Pte. Ltd.
 All rights reserved.
 
-This repository is a reference implementation demonstrating
-persona enforcement for locally run large language models (LLMs),
-using a fixed Modelfile as the execution surface.
+Reference implementation demonstrating persona enforcement for locally run large language models using a fixed Modelfile execution surface.
 
 ## Scope
 
