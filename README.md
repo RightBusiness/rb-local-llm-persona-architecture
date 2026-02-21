@@ -13,7 +13,10 @@ Reference implementation demonstrating persona enforcement for locally run large
 - No APIs
 - No compatibility guarantees
 
-This is a code-level demonstration intended for technically competent users.
+Intended Audience
+- Engineers familiar with local LLM runtimes
+- Developers evaluating persona enforcement architecture
+- System designers exploring Modelfile-based control surfaces
 
 ## Assumptions
 
